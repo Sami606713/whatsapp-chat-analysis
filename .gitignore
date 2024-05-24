@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+venv/
+Whatsapp-Chat-Analyser/
 # Distribution / packaging
 .Python
 build/

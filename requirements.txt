@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+vaderSentiment
+nltk
+urlextract
+matplotlib
+seaborn
+wordcloud
